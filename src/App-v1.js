@@ -57,6 +57,7 @@ const NavBar = ({ children }) => {
       {children}
     </nav>)
 }
+
 const Logo = () => {
   return (
     <div className="logo">
